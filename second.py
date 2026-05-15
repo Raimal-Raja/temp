@@ -1,6 +1,5 @@
 def add(x, y):
-  return x+y
-
+  print(x + y)
 
 
 add(19,34)

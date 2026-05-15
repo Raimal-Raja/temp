@@ -1,1 +1,2 @@
-print('this is my first python code')
+def printHello():
+    print('this is my first python code')
