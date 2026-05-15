@@ -1,6 +1,6 @@
-def add(int x, int y){
+def add(x, y):
   return x+y
 
-}
+
 
 add(19,34)
