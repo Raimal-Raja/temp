@@ -2,12 +2,11 @@
 
 Small Python scratch repository for introductory programming experiments.
 
-## Repository guide
+## Setup and repository reference
 
-### Contents
+### Project structure
 
 - [LICENSE](LICENSE)
-- [README.md](README.md)
 - [basics](basics)
 - [second.py](second.py)
 
@@ -22,9 +21,15 @@ Run individual Python exercises from their own folders. This collection has no s
 
 ### Configuration and limitations
 
+Inspect project-specific configuration and dependencies before running. Runtime behavior was not exhaustively verified in this audit.
+
 ### Validation
 
-Reviewed on 2026-10-08. Python syntax checks passed for 2 source files. Syntax validation does not establish runtime correctness or dependency compatibility.
+Audit: 2026-10-08. Repository structure, setup instructions and description were reviewed. 2 existing Python files passed syntax checks; changed files and new regression tests were checked separately. Syntax checks do not establish full runtime correctness. External APIs, live scraping, GUI interaction, notebook training and production deployment were not comprehensively exercised.
+
+### Repository description
+
+The short GitHub description is provided in [REPOSITORY_DESCRIPTION.md](REPOSITORY_DESCRIPTION.md).
 
 ### Contributions
 
